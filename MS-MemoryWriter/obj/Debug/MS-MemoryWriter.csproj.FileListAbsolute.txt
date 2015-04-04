@@ -1,0 +1,9 @@
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\bin\Debug\MS-MemoryWriter.exe
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\bin\Debug\MS-MemoryWriter.pdb
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\MS_MemoryWriter.frmAgreement.resources
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\MS_MemoryWriter.frmMain.resources
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\MS_MemoryWriter.Properties.Resources.resources
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\MS-MemoryWriter.csproj.GenerateResource.Cache
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\MS-MemoryWriter.exe
+D:\Documents and Settings\Jerry\My Documents\Visual Studio 2008\Projects\MS-MemoryWriter\MS-MemoryWriter\obj\Debug\MS-MemoryWriter.pdb
